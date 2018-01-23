@@ -1,0 +1,13 @@
+int attr backgroundColor 0x7f010003
+int attr enableSignature 0x7f010000
+int attr penColor 0x7f010002
+int attr penSize 0x7f010001
+int color penRoyalBlue 0x7f020000
+int color white 0x7f020001
+int dimen pen_size 0x7f030000
+int string app_name 0x7f040000
+int[] styleable signature { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable signature_backgroundColor 3
+int styleable signature_enableSignature 0
+int styleable signature_penColor 2
+int styleable signature_penSize 1

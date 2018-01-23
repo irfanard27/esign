@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="penRoyalBlue">#4169e1</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="signature"><attr format="boolean" name="enableSignature"/><attr format="dimension" name="penSize"/><attr format="color" name="penColor"/><attr format="color" name="backgroundColor"/></declare-styleable>
+    <dimen name="pen_size">3dp</dimen>
+    <string name="app_name">SignatureView</string>
+</resources>

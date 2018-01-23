@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/res/merged/debug/menu/pdf_editor_menu.xml",
+        "source": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/src/main/res/menu/pdf_editor_menu.xml"
+    },
+    {
+        "merged": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.nbsp/library/1.8/res/menu/menu.xml"
+    }
+]
