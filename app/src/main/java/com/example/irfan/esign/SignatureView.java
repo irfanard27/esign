@@ -52,7 +52,6 @@ public class SignatureView extends ImageView {
         });
     }
 
-
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);

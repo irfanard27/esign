@@ -232,6 +232,7 @@ public class PdfEditorActivity extends AppCompatActivity {
 
         // close the document
         document.close();
+
     }
 
 }

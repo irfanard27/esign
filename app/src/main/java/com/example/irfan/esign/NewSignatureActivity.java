@@ -65,5 +65,6 @@ public class NewSignatureActivity extends AppCompatActivity {
         Toast.makeText(this, "Your image is saved to this folder", Toast.LENGTH_LONG).show();
         Log.e("TAG",root + "/saved_signature");
         finish();
+
     }
 }
