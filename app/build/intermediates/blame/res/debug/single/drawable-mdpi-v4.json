@@ -84,12 +84,12 @@
         "source": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder_48dp.png",

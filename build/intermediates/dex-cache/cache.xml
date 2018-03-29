@@ -1,2 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_2aa88cc10896c6d99b16b4de043b3f5843976009/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_991d13bb28df54b175b34923d63bab7b87944dfd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_546c0a7d2805ba0cf4af500341342415946d06a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_d731087067f52626b1c31c5960ad1f508c73c154/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_21eb4140aacfb0357eab8f930e6d7dbfc738d943/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_4109ea90cbd30254aa28cbd3028fe0a190d9146a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_0b6a94910e6dd2a6b4a6e35c22f3f31476b612cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_2b5fbaebede10c47565d43205cb95cebb7b87a20/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_6f2e8db9b34df5051518182054c7b38f8a49e089/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.nbsp/library/1.8/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="17c2586c675b0552212b5ca09bfab4537511bcd6">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nbsp-library-1.8_818aafd90a4cfc04b308cd9848a9682d0ae2b418/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_4884310e98b04bf1d47ff0c3dc3dd74a556cdaf9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_90c7782c78a694dee5c2deb2c99cd9f147345b09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_b3b9b22f370cd39fb4f436049a9a0d8f65573a39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_a08e674c81f335e6fa5d823936df83d4c79faf75/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="8ae0fe656ecce62d76e8ed2f02d4d767a72e7457">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_38fee79d2dd35a50b565f0960b1e883cd26da8be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.kyanogen.signatureview/signature-view/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="cbd685a023856264b183c2a87dcfacd21fa8c439">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.kyanogen.signatureview-signature-view-1.1_2d1db1162fef47f2f99b24b1633d65c11045a79c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_b30e918f983ead730c285313889e30ac6da363a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_4a41af1e394473fe7510c7e1c2de3fd311907705/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_5ce59e6278fd99bfbd7f7fe320b55e5abe1d6727/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/exploded-aar/com.github.gcacace/signature-pad/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="9eeffee9019a8bc1858b2fd71393ff7786bcac99">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.gcacace-signature-pad-1.2.1_0ee0c667337ded23e71b7ff9a20b87358627d7d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="8604d6479efecc8c3807c8ae9aaaba472fb7aaf7">
+        <dex dex="/Users/muhammadirfanardiansyah/Documents/android/Esign/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb260007a9ba686e859c297e79fb1e8b8e4c29b4/classes.dex" />
+    </item>
+
+</items>
